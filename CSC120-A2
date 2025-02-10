@@ -1,0 +1,10 @@
+<script>start("/Users/jtu/CSC120-A2/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,384,"384 B",1739146699,"2025/2/9 19:18:19");</script>
+<script>addRow("computer.py","computer.py",0,995,"995 B",1739155353,"2025/2/9 21:42:33");</script>
+<script>addRow("main.py","main.py",0,2481,"2.4 kB",1739146698,"2025/2/9 19:18:18");</script>
+<script>addRow("oo_resale_shop.py","oo_resale_shop.py",0,3876,"3.8 kB",1739153586,"2025/2/9 21:13:06");</script>
+<script>addRow("procedural_resale_shop.py","procedural_resale_shop.py",0,2944,"2.9 kB",1739146698,"2025/2/9 19:18:18");</script>
+<script>addRow("README.md","README.md",0,1698,"1.7 kB",1739146698,"2025/2/9 19:18:18");</script>
+<script>addRow("reflection.md","reflection.md",0,157,"157 B",1739146698,"2025/2/9 19:18:18");</script>
+<script>addRow("rubric.md","rubric.md",0,1670,"1.6 kB",1739146698,"2025/2/9 19:18:18");</script>
